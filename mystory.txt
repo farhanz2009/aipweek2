@@ -1,2 +1,3 @@
 Once upon a time
 I added a line of text online
+Then I added a line from my computer using git.. That's the end of the story
